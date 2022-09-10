@@ -1,0 +1,3 @@
+# SegmentacionRFM
+
+Clustering: K-Means
